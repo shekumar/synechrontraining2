@@ -2,7 +2,6 @@
 
 cal
 
-ifconfig
 
 echo "India"
 
